@@ -1,0 +1,13 @@
+.center {
+    text-align: center;
+    color: cadetblue;
+  }
+  #space-invaders {
+    margin: 0 auto;
+    display: block;
+    background: white;
+  }
+ .label{
+  color: black;
+ }
+ 
